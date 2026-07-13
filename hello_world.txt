@@ -1,1 +1,2 @@
 #this is an example file for testing git interaction through the CLI
+#adding this line to test out git commit inside VSCode
